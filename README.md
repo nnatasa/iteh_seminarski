@@ -1,4 +1,4 @@
 # ITEH-Projekat
 Projekat iz predmeta Internet tehnologije
 
-DMS u školi za obuku vozača 
+Full stack aplikacija - Skola za obuku vozaca
