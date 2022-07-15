@@ -38,11 +38,11 @@ CREATE TABLE `kandidat` (
 --
 
 INSERT INTO `kandidat` (`brojKandidata`, `imePrezimeKandidata`, `brojTelefona`, `datumRodjenja`) VALUES
-('123456789', 'Sara Rackovic', '061 99 99 491', '1985-06-03'),
-('147258369', 'Milica Radovic', '063 3322 235', '1999-02-13'),
-('741963852', 'Filip Mandjusic', '065 666 6666', '1999-12-14'),
-('852963741', 'Mladen Milikic', '062 44 34 212', '1996-08-11'),
-('963852741', 'Milena Milikic', '062 212 2122', '1997-03-10');
+('123456789', 'Sara Rackovic', '0619999491', '1985-06-03'),
+('147258369', 'Milica Radovic', '0633322235', '1999-02-13'),
+('741963852', 'Filip Mandjusic', '0656666666', '1999-12-14'),
+('852963741', 'Mladen Milikic', '0624434212', '1996-08-11'),
+('963852741', 'Milena Milikic', '0622122122', '1997-03-10');
 
 -- --------------------------------------------------------
 
